@@ -1,0 +1,26 @@
+.block {
+    height: 200px;
+    width: 300px;
+    border: 2px solid;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+section {
+    margin-left: 25px;
+    padding: 10px;
+}
+
+.navbar {
+    height: 65px;
+}
+
+
+/* .newrow {
+    height: 200px;
+} */
